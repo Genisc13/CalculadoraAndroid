@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="Texto_boton1">1</string>
+    <string name="Texto_boton2">2</string>
+    <string name="Texto_boton3">3</string>
+    <string name="Texto_boton4">4</string>
+    <string name="Texto_boton5">5</string>
+    <string name="Texto_boton6">6</string>
+    <string name="Texto_boton7">7</string>
+    <string name="Texto_boton8">8</string>
+    <string name="Texto_boton9">9</string>
+    <string name="Texto_boton0">0</string>
+    <string name="Texto_botonAC">AC</string>
+    <string name="Texto_botonmas">+</string>
+    <string name="Texto_botonmenos">-</string>
+    <string name="Texto_botonigual">=</string>
+    <string name="Texto_Interfaz" />
+    <string name="Botonpor">x</string>
+    <string name="Botondivide">/</string>
+</resources>
